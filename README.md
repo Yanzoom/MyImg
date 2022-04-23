@@ -1,2 +1,2 @@
 # MyImg
-我的图床
+My images
